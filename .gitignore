@@ -1,0 +1,12 @@
+*.class
+bin/
+dist/
+
+.settings/
+.project
+.classpath
+
+.DS_Store
+
+jnetsend.cfg
+
