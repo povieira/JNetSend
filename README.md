@@ -14,7 +14,7 @@ The goal back then was replace a Visual Basic version of a similar app in the co
 ## Usage
 ```cmd
 > cd <installation folder>
-> JNetSend.bat
+> java -jar JNetSend.jar
 ```
 
 ## MIT License
