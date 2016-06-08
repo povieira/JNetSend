@@ -20,7 +20,7 @@ The goal back then was replace a Visual Basic version of a similar app in the co
 ```
 
 ## MIT License
-JNetSend - Copyright (c) 2002-2014 Pablo O Vieira (povieira)
+JNetSend - Copyright (c) 2002-2014 Pablo O Vieira 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
