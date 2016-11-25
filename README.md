@@ -1,6 +1,6 @@
 # JNetSend - README
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10072.png)](http://dx.doi.org/10.5281/zenodo.10072)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10072.svg)](http://dx.doi.org/10.5281/zenodo.10072)
 
 **JNetSend** is an app created back in 2002 with the intent to provide a *pretty* interface for chat via `net send` (command line) in a WinNT based network.
 
